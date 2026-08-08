@@ -1,2 +1,3 @@
-# .github
-Just another Vibe Coding Community
+Just another Vibe Coding Community.
+
+# Vibed.win
