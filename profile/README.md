@@ -2,7 +2,9 @@
 
 > A chill corner for vibe coders. Free. Chill. No algorithms. Just coders who get it.
 
-Welcome to the **Vibed.win** GitHub organisation! We're a community of developers who code by feel, sharing projects, debugging together, and keeping it chill.
+Welcome to the **Vibed.win** GitHub organisation! 
+
+We're a community of developers who code by feel, sharing projects, debugging together, and keeping it chill.
 
 ---
 
